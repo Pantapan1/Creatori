@@ -4,7 +4,7 @@ from aiogram.filters import Command
 from aiogram.types import WebAppInfo, InlineKeyboardButton, InlineKeyboardMarkup
 
 BOT_TOKEN = "8603618135:AAHbbRy---F5wWuasPoWtHt32w-6Dcr_nyU"
-WEBAPP_URL = "https://pantapan1.github.io/my-telegram-app/main.html"
+WEBAPP_URL = "https://pantapan1.github.io/my-telegram-app/app.html"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
